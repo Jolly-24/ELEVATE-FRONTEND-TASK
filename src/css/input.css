@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .active{
+        background-color: rgb(226, 232, 240);
+    }
+    /* .back{
+        background-image: url("../images/depositphotos_97229426-stock-photo-chalkboard-texture-background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    } */
+}
