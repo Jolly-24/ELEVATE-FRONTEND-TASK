@@ -5,4 +5,4 @@ Thats simple e-commerce products listing page:
 4- Used npm to install Tailwind and daisyUI
 
 To run the application you will need to download node to use npm to install the using dependencies that you will found them in package.json file.
-To see live demo :
+To see live demo : https://jolly-24.github.io/ELEVATE-FRONTEND-TASK/src/index.html
